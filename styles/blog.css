@@ -1,4 +1,7 @@
 div {
     background-color: aquamarine;
     padding: 10px;
+    margin: 40px;
+    border: 10px solid goldenrod;
+    border-radius: 15px;
 }
